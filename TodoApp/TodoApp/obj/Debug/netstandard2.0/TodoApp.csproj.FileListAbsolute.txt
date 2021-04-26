@@ -1,0 +1,42 @@
+/Users/melkerlilja/RiderProjects/TodoApp/TodoApp/TodoApp/bin/Debug/netstandard2.0/TodoApp.deps.json
+/Users/melkerlilja/RiderProjects/TodoApp/TodoApp/TodoApp/bin/Debug/netstandard2.0/TodoApp.dll
+/Users/melkerlilja/RiderProjects/TodoApp/TodoApp/TodoApp/bin/Debug/netstandard2.0/TodoApp.pdb
+/Users/melkerlilja/RiderProjects/TodoApp/TodoApp/TodoApp/obj/Debug/netstandard2.0/TodoApp.csprojAssemblyReference.cache
+/Users/melkerlilja/RiderProjects/TodoApp/TodoApp/TodoApp/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/melkerlilja/RiderProjects/TodoApp/TodoApp/TodoApp/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/melkerlilja/RiderProjects/TodoApp/TodoApp/TodoApp/obj/Debug/netstandard2.0/Views/ListPage.xaml.g.cs
+/Users/melkerlilja/RiderProjects/TodoApp/TodoApp/TodoApp/obj/Debug/netstandard2.0/Views/MakeTodoPage.xaml.g.cs
+/Users/melkerlilja/RiderProjects/TodoApp/TodoApp/TodoApp/obj/Debug/netstandard2.0/TodoApp.AssemblyInfoInputs.cache
+/Users/melkerlilja/RiderProjects/TodoApp/TodoApp/TodoApp/obj/Debug/netstandard2.0/TodoApp.AssemblyInfo.cs
+/Users/melkerlilja/RiderProjects/TodoApp/TodoApp/TodoApp/obj/Debug/netstandard2.0/TodoApp.csproj.CoreCompileInputs.cache
+/Users/melkerlilja/RiderProjects/TodoApp/TodoApp/TodoApp/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/melkerlilja/RiderProjects/TodoApp/TodoApp/TodoApp/obj/Debug/netstandard2.0/TodoApp.dll
+/Users/melkerlilja/RiderProjects/TodoApp/TodoApp/TodoApp/obj/Debug/netstandard2.0/TodoApp.pdb
+/Users/victor/Downloads/TodoApp/TodoApp/TodoApp/bin/Debug/netstandard2.0/TodoApp.deps.json
+/Users/victor/Downloads/TodoApp/TodoApp/TodoApp/bin/Debug/netstandard2.0/TodoApp.dll
+/Users/victor/Downloads/TodoApp/TodoApp/TodoApp/bin/Debug/netstandard2.0/TodoApp.pdb
+/Users/victor/Downloads/TodoApp/TodoApp/TodoApp/obj/Debug/netstandard2.0/TodoApp.csprojAssemblyReference.cache
+/Users/victor/Downloads/TodoApp/TodoApp/TodoApp/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/victor/Downloads/TodoApp/TodoApp/TodoApp/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/victor/Downloads/TodoApp/TodoApp/TodoApp/obj/Debug/netstandard2.0/Views/ListPage.xaml.g.cs
+/Users/victor/Downloads/TodoApp/TodoApp/TodoApp/obj/Debug/netstandard2.0/Views/MakeTodoPage.xaml.g.cs
+/Users/victor/Downloads/TodoApp/TodoApp/TodoApp/obj/Debug/netstandard2.0/TodoApp.AssemblyInfoInputs.cache
+/Users/victor/Downloads/TodoApp/TodoApp/TodoApp/obj/Debug/netstandard2.0/TodoApp.AssemblyInfo.cs
+/Users/victor/Downloads/TodoApp/TodoApp/TodoApp/obj/Debug/netstandard2.0/TodoApp.csproj.CoreCompileInputs.cache
+/Users/victor/Downloads/TodoApp/TodoApp/TodoApp/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/victor/Downloads/TodoApp/TodoApp/TodoApp/obj/Debug/netstandard2.0/TodoApp.dll
+/Users/victor/Downloads/TodoApp/TodoApp/TodoApp/obj/Debug/netstandard2.0/TodoApp.pdb
+/Users/victor/Desktop/DENNA/TodoApp (kopia)/TodoApp/TodoApp/bin/Debug/netstandard2.0/TodoApp.deps.json
+/Users/victor/Desktop/DENNA/TodoApp (kopia)/TodoApp/TodoApp/bin/Debug/netstandard2.0/TodoApp.dll
+/Users/victor/Desktop/DENNA/TodoApp (kopia)/TodoApp/TodoApp/bin/Debug/netstandard2.0/TodoApp.pdb
+/Users/victor/Desktop/DENNA/TodoApp (kopia)/TodoApp/TodoApp/obj/Debug/netstandard2.0/TodoApp.csprojAssemblyReference.cache
+/Users/victor/Desktop/DENNA/TodoApp (kopia)/TodoApp/TodoApp/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/victor/Desktop/DENNA/TodoApp (kopia)/TodoApp/TodoApp/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/victor/Desktop/DENNA/TodoApp (kopia)/TodoApp/TodoApp/obj/Debug/netstandard2.0/Views/ListPage.xaml.g.cs
+/Users/victor/Desktop/DENNA/TodoApp (kopia)/TodoApp/TodoApp/obj/Debug/netstandard2.0/Views/MakeTodoPage.xaml.g.cs
+/Users/victor/Desktop/DENNA/TodoApp (kopia)/TodoApp/TodoApp/obj/Debug/netstandard2.0/TodoApp.AssemblyInfoInputs.cache
+/Users/victor/Desktop/DENNA/TodoApp (kopia)/TodoApp/TodoApp/obj/Debug/netstandard2.0/TodoApp.AssemblyInfo.cs
+/Users/victor/Desktop/DENNA/TodoApp (kopia)/TodoApp/TodoApp/obj/Debug/netstandard2.0/TodoApp.csproj.CoreCompileInputs.cache
+/Users/victor/Desktop/DENNA/TodoApp (kopia)/TodoApp/TodoApp/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/victor/Desktop/DENNA/TodoApp (kopia)/TodoApp/TodoApp/obj/Debug/netstandard2.0/TodoApp.dll
+/Users/victor/Desktop/DENNA/TodoApp (kopia)/TodoApp/TodoApp/obj/Debug/netstandard2.0/TodoApp.pdb
